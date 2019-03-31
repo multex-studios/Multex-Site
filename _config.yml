@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Multex
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Beat dodger, a dodge em up rhythm game full of bosses
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://cdn.discordapp.com/app-assets/560934275130851338/store/560944915786498053.png
 
 #
 # Flags below are optional
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:multexstudios@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: multex-studios/
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: h # just type anything here for a working RSS icon
+  twitter: MultexS
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCddPdUvB5cN81281rbncRgg # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
