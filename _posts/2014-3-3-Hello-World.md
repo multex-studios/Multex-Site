@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: First day, First post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Well then, welcome to the official Beat Dodger website, we have alot of work to do, most notably beatmap creation/parsing.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+so far the things that are confirmed are:
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![lists](https://i.imgur.com/C2vGNwG.png)
+
+we have to blur some of them out because some of them are a surprise :^)
+
+## In other news 
+
+we have recently reviewed all beta tester submitions and chosen 4 canidates, `pizzazip, Tsum, momad and pretttgo`.
+
+this should cover everything that we have currently, more weekly updates coming soon:tm:
