@@ -7,9 +7,15 @@ Well then, welcome to the official Beat Dodger website, we have alot of work to 
 
 so far the things that are confirmed are:
 
-![lists](https://i.imgur.com/C2vGNwG.png)
-
-we have to blur some of them out because some of them are a surprise :^)
+* beatmaps (obviously)
+* storyboard
+* childrens
+* parents
+* camera manipulation
+* visual filters
+* servers
+* site (this)
+* ranking system
 
 ## In other news 
 
