@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Multex
+name: Multex Studios
 
 # Short bio or description (displayed in the header)
 description: Beat dodger, a dodge em up rhythm game full of bosses
@@ -23,12 +23,12 @@ footer-links:
   flickr:
   github: multex-studios/
   instagram:
-  linkedin:
+  discord: https://discord.gg/qfapdh6
   pinterest:
   rss: h # just type anything here for a working RSS icon
   twitter: MultexS
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCddPdUvB5cN81281rbncRgg # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCTfc6XcaElfsv1k0vifPJZA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
